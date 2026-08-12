@@ -1,4 +1,4 @@
-# nexora
+# NEXORA
 
 A production-quality **Mini ERP + CRM Operations Portal** for a wholesale/distribution company, built as a full-stack interview case study.
 
